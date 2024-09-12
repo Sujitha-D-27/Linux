@@ -1,0 +1,70 @@
+LINUX COMMANDS
+
+1.pwd --->present working directory
+
+2.mkdir ---> creating a directory/folder
+
+3.ls --->Listing out all the files
+
+4.ls -al ---> Listing out all hidden files with long format
+
+5.ls -alt ---> Listing out all the files with time
+
+6.cd ---> change directory
+
+7.touch ---> creating a file
+
+8.cp --->copy a source file to destination file 
+
+9.mv ---> move a file from source to destination 
+
+10.source ---> to execute a nano file which contains echo command
+
+11.cat --->display the content of file
+
+12.chmod --->to allow permission for file
+
+13.chown --->change ownership of user
+
+14.uname --->displays username
+
+15.whoami --->displays current user
+
+16.echo --->print the statement
+
+17.Redirection (cat "msg" > filename) ---> stores the content into specific file
+
+18.Redirection (cat source >> destination) ---> appends the source file into destination file
+
+19.wc ---> word count
+
+20. | ---> pipe operator 
+
+21.wildcards(*) ---> selects all the file
+
+22.Wildcards(?) ---> selects only the one character of filename and return the filename in the  directory
+
+22.gre ----> used to find specific file,path and word in directory
+
+23.sed ---> to replace any word in file
+
+24.rm --->delete files and directories permanently
+
+25.alias ---> to make shortcuts for commands
+
+26.history ---> to see the history of commands 
+
+27.sort --->arrange in ascending order that to be in list
+
+28.uniq --->repetition of words would be ignored
+
+29.env --->to set an environment variable
+
+30. Editor ---> nano 
+
+Execution of files
+
+1.txt
+2.java
+3.c
+4.sh
